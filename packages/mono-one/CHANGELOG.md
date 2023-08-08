@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.2](https://github.com/azu/lerna-monorepo-github-actions-release/compare/v3.0.1...v3.0.2) (2023-08-08)
+
+
+### Bug Fixes
+
+* package names ([e227bfc](https://github.com/azu/lerna-monorepo-github-actions-release/commit/e227bfc664f269da4fbf276dfd236f8fefc8aeb1))
+
+
+
+
+
 ## 3.0.1 (2023-08-08)
 
 
